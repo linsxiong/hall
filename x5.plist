@@ -12,7 +12,7 @@
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>http://47.52.204.46:8080/ios/5be29b9e6e384.ipa</string>
+     <string>https://raw.githubusercontent.com/linsxiong/hall/master/5be29b9e6e384.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
