@@ -7,14 +7,7 @@
   <dict>
    <key>assets</key>
    <array>
-    <dict>
-     <key>kind</key>
-     <string>software-package</string>
-     <key>url</key>
-     <!-- http或者https链接的ipa文件地址 -->
-     <string>https://raw.githubusercontent.com/linsxiong/hall/master/5be29b9e6e384.ipa</string>
-    </dict>
-    <dict>
+     <dict>
      <key>kind</key>
      <string>full-size-image</string>
      <key>needs-shine</key>
@@ -32,6 +25,14 @@
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
      <string>https://raw.githubusercontent.com/linsxiong/hall/master/ic_launcher.png</string>
     </dict>
+    <dict>
+     <key>kind</key>
+     <string>software-package</string>
+     <key>url</key>
+     <!-- http或者https链接的ipa文件地址 -->
+     <string>https://raw.githubusercontent.com/linsxiong/hall/master/5be29b9e6e384.ipa</string>
+    </dict>
+   
    </array>
    <key>metadata</key>
    <dict>
