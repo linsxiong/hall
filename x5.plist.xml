@@ -7,34 +7,37 @@
   <dict>
    <key>assets</key>
    <array>
-    
     <dict>
      <key>kind</key>
      <string>software-package</string>
      <key>url</key>
      <!-- http或者https链接的ipa文件地址 -->
-     <string>https://raw.githubusercontent.com/linsxiong/hall/master/5be29b9e6e384.ipa</string>
+     <string>http://47.52.204.46:8080/ios/5be29b9e6e384.ipa</string>
     </dict>
     <dict>
      <key>kind</key>
      <string>full-size-image</string>
+     <key>needs-shine</key>
+     <true/>
      <key>url</key>
      <!-- http或者https链接的图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://raw.githubusercontent.com/linsxiong/hall/master/ic_launcher.png</string>
+     <string>http://47.52.204.46:8080/ios/ic_launcher.png</string>
     </dict>
     <dict>
      <key>kind</key>
      <string>display-image</string>
+     <key>needs-shine</key>
+     <true/>
      <key>url</key>
      <!-- http或者https链接的小图片地址，可直接使用app对应的icon（分辨率没强制要求） -->
-     <string>https://raw.githubusercontent.com/linsxiong/hall/master/ic_launcher.png</string>
+     <string>http://47.52.204.46:8080/ios/ic_launcher.png</string>
     </dict>
    </array>
    <key>metadata</key>
    <dict>
     <key>bundle-identifier</key>
     <!-- BundleID，就是新建app时的包名 -->
-    <string>org.cocos2d.hallegg</string>
+    <string>com.cocos2d.halleg</string>
     <key>bundle-version</key>
     <!-- 版本号 -->
     <string>1.0.0</string>
@@ -42,7 +45,7 @@
     <string>software</string>
     <key>title</key>
     <!-- 安装app时的提示信息 -->
-    <string>博爵棋牌</string>
+    <string>胡徕棋牌</string>
    </dict>
   </dict>
  </array>
