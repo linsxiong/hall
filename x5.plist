@@ -17,16 +17,12 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<key>needs-shine</key>
-					<true/>
 					<string>https://raw.githubusercontent.com/linsxiong/hall/master/ic_launcher.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<key>needs-shine</key>
-					<true/>
 					<string>https://raw.githubusercontent.com/linsxiong/hall/master/ic_launcher.png</string>
 				</dict>
 			</array>
