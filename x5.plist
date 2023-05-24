@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/linsxiong/hall/master/5be29b9e6e384.ipa</string>
+					<string>http://192.168.0.234:9999/BuildClient_P2/build_53/大领主传说.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -35,7 +35,7 @@
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>博爵棋牌</string>
+				<string>大领主传说</string>
 			</dict>
 		</dict>
 	</array>
